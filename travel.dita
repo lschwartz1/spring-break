@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fv3_rrn_cz">
+    <title>How we are Getting to Georgia</title>
+    <shortdesc>Traveling is a major part of any trip. Our general plan is to drive to
+        Georgia.</shortdesc>
+    <taskbody>
+        <context><p/>We are taking two cars to travel to Georgia. I will be driving one, and
+            Caroline will be driving the other. </context>
+        <steps>
+            <step>
+                <cmd>Get in the car</cmd>
+               
+            </step>
+            <step>
+                <cmd>Buckle your seatbelt</cmd>
+           
+            </step>
+            <step>
+                <cmd>Play music</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

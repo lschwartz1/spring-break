@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ggn_b5n_cz">
+    <title>How to Pay for Things</title>
+    <shortdesc>Paying for things while on vacation is an important part to having fun.</shortdesc>
+    <taskbody>
+        <context>The following task will describe a way for you to earn money to spend it while in
+            Savannah.<p/></context>
+        <steps>
+            <step>
+                <cmd>Go to Indeed.com</cmd>
+            </step>
+            <step>
+                <cmd>Find a job and submit resume.</cmd>
+            </step>
+            <step>
+                <cmd>Show up to the job and make money</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

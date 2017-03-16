@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ot1_dtn_cz">
+    <title>What To Do There</title>
+    <shortdesc>Finding things to do when you get there is always a challenge.</shortdesc>
+    <taskbody>
+        <context>The following will explain various things to do there<p/></context>
+        <steps>
+            <step>
+                <cmd>Go to the computer</cmd>
+            </step>
+            <step>
+                <cmd>Go to the Internet</cmd>
+            </step>
+            <step>
+                <cmd>Search for things to do in Savannah</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

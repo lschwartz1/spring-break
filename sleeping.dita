@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vfb_4tn_cz">
+    <title>Sleeping Arrangements</title>
+    <shortdesc>Sleeping Arrangement are a vital part to everyone's happiness. </shortdesc>
+    <taskbody>
+        <context>This task will describe where everyone will sleep in Savannah.<p/></context>
+        <steps>
+            <step>
+                <cmd>Lay down on a bed.</cmd>
+            </step>
+            <step>
+                <cmd>Pull covers up.</cmd>
+            </step>
+            <step>
+                <cmd>Close your eyes</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
