@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"task_ggn_b5n_cz", "path":"tasks/money.html"},{"appname":"", "appid":"task_ot1_dtn_cz", "path":"tasks/activities.html"},{"appname":"", "appid":"task_vfb_4tn_cz", "path":"tasks/sleeping.html"},{"appname":"", "appid":"task_fv3_rrn_cz", "path":"tasks/travel.html"},{"appname":"", "appid":"trouble_ur4_5pw_fz", "path":"tasks/arrested.html"}]
